@@ -37,9 +37,9 @@ I'm also getting into **Machine Learning** on the side, mostly because the mix o
 
 <div align="center">
 
-<img height="155" src="https://github-readme-stats-umber-six-25.vercel.app/api?username=Mh-Saberi&show_icons=true&theme=midnight-purple&hide_border=true&count_private=true&show=commits" />
+<img height="155" src="https://github-readme-stats.vercel.app/api?username=Mh-Saberi&show_icons=true&theme=midnight-purple&hide_border=true&count_private=true&show=commits" />
 &nbsp;
-<img height="155" src="https://github-readme-stats-umber-six-25.vercel.app/api/top-langs/?username=Mh-Saberi&layout=compact&theme=midnight-purple&hide_border=true&langs_count=6" />
+<img height="155" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mh-Saberi&layout=compact&theme=midnight-purple&hide_border=true&langs_count=6" />
 
 </div>
 
