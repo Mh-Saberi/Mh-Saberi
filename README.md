@@ -45,7 +45,7 @@ I'm also getting into **Machine Learning** on the side, mostly because the mix o
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Mh-Saberi&theme=midnight-purple&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Mh-Saberi&theme=midnight-purple&hide_border=true&mode=weekly)](https://git.io/streak-stats)
 
 </div>
 
@@ -53,6 +53,6 @@ I'm also getting into **Machine Learning** on the side, mostly because the mix o
 
 ### find me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-change__me-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mahtab-saberi-81023mhsb)
-[![Email](https://img.shields.io/badge/Email-change__me-0f766e?style=flat-square&logo=gmail&logoColor=white)](mailto:saberimahtab2002@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mahtab_Saberi-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mahtab-saberi-81023mhsb)
+[![Email](https://img.shields.io/badge/Email-saberimahtab2002-0f766e?style=flat-square&logo=gmail&logoColor=white)](mailto:saberimahtab2002@gmail.com)
 
